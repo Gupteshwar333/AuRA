@@ -1,2 +1,0 @@
-# AuRA
-Web design
